@@ -13,9 +13,9 @@ var movies = [
 	},
 	{
 		id : 3,
-		title : 'Król lew',
-		desc : 'film o królu sawanny',
-		src: './images/lion.jpeg'
+		title : 'Shrek',
+		desc : 'film o zielonym ogrze',
+		src: './images/shrek.jpg'
 	},
 	{
 		id : 4,
