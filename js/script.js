@@ -21,7 +21,7 @@ var movies = [
 		id : 4,
 		title : 'Hobbit',
 		desc : 'film o podróży dróżyny po skarb',
-		src: './images/hobbit.jpeg'
+		src: './images/hobbit.jpg'
 	}
 ];
 
