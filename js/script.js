@@ -19,9 +19,9 @@ var movies = [
 	},
 	{
 		id : 4,
-		title : 'Król lew',
-		desc : 'film o królu sawanny',
-		src: './images/lion.jpeg'
+		title : 'Hobbit',
+		desc : 'film o podróży dróżyny po skarb',
+		src: './images/hobbit.jpeg'
 	}
 ];
 
