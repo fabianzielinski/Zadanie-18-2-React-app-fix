@@ -13,15 +13,15 @@ var movies = [
 	},
 	{
 		id : 3,
-		title : 'Król lew',
-		desc : 'film o królu sawanny',
-		src: './images/lion.jpeg'
+		title : 'Shrek',
+		desc : 'film o zielonym ogrze',
+		src: './images/shrek.jpg'
 	},
 	{
 		id : 4,
-		title : 'Król lew',
-		desc : 'film o królu sawanny',
-		src: './images/lion.jpeg'
+		title : 'Hobbit',
+		desc : 'film o podróży dróżyny po skarb',
+		src: './images/hobbit.jpg'
 	}
 ];
 
